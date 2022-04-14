@@ -1,1 +1,1 @@
-# openmath
+# OpenMath
