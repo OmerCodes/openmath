@@ -1,6 +1,5 @@
 #include <cmath>
 
+#include "calculations/operations.cpp"
+#include "calculations/constants.hpp"
 #include "calculations/vectors.cpp"
-#include "calculations/solve.cpp"
-#include "calculations/calculus.cpp"
-
