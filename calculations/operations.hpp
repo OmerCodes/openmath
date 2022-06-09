@@ -3,6 +3,8 @@
 
 double oIntPow (double base, int exponent);
 double oFactorial (int n);
-double oNthRoot (int index, double radicand, int iterations = 3, double guess = 0);
+long double oIntNthRoot (int index, long double radicand, int iterations = 3, double guess = 0);
+double oPower ();
+double decimalToFraction (long double);
 
 #endif
